@@ -74,7 +74,7 @@ defmodule LiveMap.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:phoenix_live_view, "~> 0.17.5"},
+      {:phoenix_live_view, "~> 0.18.0"},
       {:jason, "~> 1.2"},
 
       # Test/dev deps
